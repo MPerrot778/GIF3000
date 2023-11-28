@@ -300,15 +300,15 @@ end TCL_Generic;&#13;
       <text dominant-baseline="central" font-family="SansSerif" font-size="12" text-anchor="middle" x="325" y="58">Address_to_mem_instr</text>
       <text dominant-baseline="central" font-family="SansSerif" font-size="12" text-anchor="middle" x="327" y="78">Data_from_mem_instr</text>
       <circ-anchor facing="east" height="6" width="6" x="397" y="57"/>
-      <circ-port height="10" pin="2100,770" width="10" x="395" y="45"/>
-      <circ-port height="10" pin="2160,890" width="10" x="395" y="55"/>
-      <circ-port height="10" pin="2220,1080" width="10" x="395" y="65"/>
-      <circ-port height="10" pin="2220,1120" width="10" x="395" y="75"/>
-      <circ-port height="10" pin="270,890" width="10" x="95" y="65"/>
-      <circ-port height="8" pin="2120,1190" width="8" x="96" y="86"/>
-      <circ-port height="8" pin="2240,940" width="8" x="96" y="76"/>
-      <circ-port height="8" pin="270,830" width="8" x="96" y="56"/>
-      <circ-port height="8" pin="60,500" width="8" x="96" y="46"/>
+      <circ-port height="10" pin="2100,770" width="10" x="395" y="295"/>
+      <circ-port height="10" pin="2160,890" width="10" x="395" y="255"/>
+      <circ-port height="10" pin="2220,1080" width="10" x="395" y="315"/>
+      <circ-port height="10" pin="2220,1120" width="10" x="395" y="335"/>
+      <circ-port height="10" pin="270,890" width="10" x="395" y="55"/>
+      <circ-port height="8" pin="2120,1190" width="8" x="396" y="356"/>
+      <circ-port height="8" pin="2240,940" width="8" x="396" y="276"/>
+      <circ-port height="8" pin="270,830" width="8" x="396" y="76"/>
+      <circ-port height="8" pin="60,500" width="8" x="116" y="36"/>
     </appear>
     <comp lib="0" loc="(1240,590)" name="Probe">
       <a name="appearance" val="NewPins"/>
